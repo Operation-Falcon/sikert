@@ -21,12 +21,11 @@ go build sikert.go
     
 ## Usage/Examples
 
-```javascript
-import Component from 'my-project'
+```GOLANG
 
-function App() {
-  return <Component />
-}
+./sikert -h
+
+./sikert -domain domain-name -output result.txt
 ```
 
   
