@@ -67,7 +67,6 @@ For support, contact me over linkeding Deepanjal kumar
 - [Recon.dev](https://recon.dev)
 - [SecurityTrails](http://securitytrails.com)
 - [Shodan](https://shodan.io)
-- [Threatbook](https://x.threatbook.cn/en)
 - [Virustotal](https://www.virustotal.com)
 
 For sources using api place the api keys and token in config.go file inside configuration folder.
