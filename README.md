@@ -1,1 +1,1 @@
-# sikert is an subdomain enumeartion tool.
+# Sikert is an subdomain enumeartion tool.
