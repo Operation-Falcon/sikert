@@ -47,14 +47,14 @@ Insert gif or link to demo
   
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at Linkedin Deepanjal kumar
 
   
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Programming Language:** GOLANG
 
-**Server:** Node, Express
+**IDE:** VS-CODE
 
   
 ## Support
