@@ -59,17 +59,22 @@ If you have any feedback, please reach out to us at Linkedin Deepanjal kumar
   
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
-
-  
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
+For support, contact me over linkeding Deepanjal kumar
 
   
 ## API Reference
+
+
+- [Binaryedge](https://binaryedge.io)
+- [Certspotter](https://sslmate.com/certspotter/api/)
+- [Chaos](https://chaos.projectdiscovery.io)
+- [Passivetotal](http://passivetotal.org)
+- [Recon.dev](https://recon.dev)
+- [SecurityTrails](http://securitytrails.com)
+- [Shodan](https://shodan.io)
+- [Threatbook](https://x.threatbook.cn/en)
+- [Virustotal](https://www.virustotal.com)
+
 
 #### Get all items
 
