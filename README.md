@@ -71,6 +71,36 @@ For support, contact me over linkeding Deepanjal kumar
 - [Virustotal](https://www.virustotal.com)
 
 For sources using api place the api keys and token in config.go file inside configuration folders.
+
+## Sources include :        
+
+1 - Alien vault
+                       
+2 - Anubis
+
+3 - Binary edge
+
+4 - Certspotter
+
+5 - Chaos
+
+6 - Crtsh
+
+7 - ReconDev
+
+8 - Security Trails
+
+9 - Shodan
+
+10 - Sonar
+
+11 - Sublist3r
+
+12 - Threatcrowd
+
+13 - Threatminer
+
+14 - VirusTotal
   
 ## Authors
 
