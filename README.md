@@ -8,11 +8,11 @@ It let's you perform subdomain enumeration using different sources across the in
     
 ## Installation 
 
-Install my-project with npm
+Install my-project with go
 
-```bash 
-  npm install my-project
-  cd my-project
+```
+
+go get github.com/Deepanjalkumar/sikert
 ```
     
 ## Usage/Examples
