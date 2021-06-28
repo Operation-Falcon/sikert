@@ -70,6 +70,7 @@ For support, contact me over linkeding Deepanjal kumar
 - [Threatbook](https://x.threatbook.cn/en)
 - [Virustotal](https://www.virustotal.com)
 
+For sources using api place the api keys and token in config.go file inside configuration folders.
   
 ## Authors
 
