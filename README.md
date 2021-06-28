@@ -13,6 +13,10 @@ Install my-project with go
 ```
 
 go get github.com/Deepanjalkumar/sikert
+
+cd $GO-PATH/sikert
+
+go build sikert.go
 ```
     
 ## Usage/Examples
