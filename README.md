@@ -75,35 +75,10 @@ For support, contact me over linkeding Deepanjal kumar
 - [Threatbook](https://x.threatbook.cn/en)
 - [Virustotal](https://www.virustotal.com)
 
-
-#### Get all items
-
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
-
   
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@Deepanjalkumar](https://github.com/Deepanjalkumar)
 
   
 ## Badges
