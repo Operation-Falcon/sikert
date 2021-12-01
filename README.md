@@ -118,6 +118,6 @@ For sources using api place the api keys and token in config.go file inside conf
   
 ## Contributing
 
-Contributions are always welcome!
+Contributions are always welcome
 
 
